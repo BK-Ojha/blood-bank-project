@@ -5,60 +5,46 @@ and distributed for transfusion to patients in need.
 ## Screenshots
 
 ## Login
-![Login]
-(client/public/screenshots/Screenshot1.png)
+![Login](client/public/screenshots/Screenshot1.png)
 
 ## Registeration
-![Registeration]
-(client/public/screenshots/Screenshot2.png)
+![Registeration](client/public/screenshots/Screenshot2.png)
 
 ## Spinner
-![Spinner]
-(client/public/screenshots/Screenshot3.png)
+![Spinner](client/public/screenshots/Screenshot3.png)
 
 ## Admin Control
-![Admin Control]
-(client/public/screenshots/Screenshot4.png)
+![Admin Control](client/public/screenshots/Screenshot4.png)
 
 ## Admin can manage donar
-![Admin can manage donar]
-(client/public/screenshots/Screenshot5.png)
+![Admin can manage donar](client/public/screenshots/Screenshot5.png)
 
 ## Admin can manage hospital
-![Admin can manage hospital]
-(client/public/screenshots/Screenshot6.png)
+![Admin can manage hospital](client/public/screenshots/Screenshot6.png)
 
 ## Admin can manage organization
-![Admin can manage organization]
-(client/public/screenshots/Screenshot7.png)
+![Admin can manage organization](client/public/screenshots/Screenshot7.png)
 
 ## Action on any event
-![Action on any event]
-(client/public/screenshots/Screenshot8.png)
+![Action on any event](client/public/screenshots/Screenshot8.png)
 
 ## Successful message for any event
-![Successful message for any event]
-(client/public/screenshots/Screenshot9.png)
+![Successful message for any event](client/public/screenshots/Screenshot9.png)
 
 ## Logout
-![Logout]
-(client/public/screenshots/Screenshot10.png)
+![Logout](client/public/screenshots/Screenshot10.png)
 
 ## Hospital Control
-![Hospital Control]
-(client/public/screenshots/Screenshot11.png)
+![Hospital Control](client/public/screenshots/Screenshot11.png)
 
 ## Analytics
-![Analytics]
-(client/public/screenshots/Screenshot12.png)
+![Analytics](client/public/screenshots/Screenshot12.png)
 
 ## Inventory management
-![Inventory management]
-(client/public/screenshots/Screenshot13.png)
+![Inventory management](client/public/screenshots/Screenshot13.png)
 
 ## Consumer
-![Consumer]
-(client/public/screenshots/Screenshot14.png)
+![Consumer](client/public/screenshots/Screenshot14.png)
 
 ### Description 
     This project is a blood bank management system built using the MERN stack.
